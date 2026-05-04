@@ -40,8 +40,8 @@ network-traffic-monitor/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/network-traffic-monitor.git
-cd network-traffic-monitor
+git clone https://github.com/your-username/network-traffic-monitoring-system.git
+cd network-traffic-monitoring-system
 
 # 2. Install the only dependency
 pip install flask
